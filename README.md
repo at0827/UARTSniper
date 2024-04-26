@@ -19,6 +19,9 @@ This repository contains the source code for an automated turret tracking system
 ## System Diagram
 [insert system diagram here]
 
+![image](https://github.com/at0827/UARTSniper/assets/31556111/6192f17a-cc98-4ac6-9e07-f1050f5bc3d5)
+
+
 # Setup and Installation
 
 ## Raspberry Pi Setup:
