@@ -24,7 +24,6 @@ This repository contains the source code for an automated turret tracking system
 - laptops more sophisticated protocal for figuring out how much power needs to be supplied to the connected system.
 
 ## System Diagram
-[insert system diagram here]
 
 ![image](https://github.com/at0827/UARTSniper/assets/31556111/e1f7bf1e-00a4-4349-ae52-352497148f03)
 
