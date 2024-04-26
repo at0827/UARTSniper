@@ -15,6 +15,13 @@ This repository contains the source code for an automated turret tracking system
 ## Software Components
 - Python Script (turretMain.py): Implements the face detection using OpenCV and sends the coordinates of the detected face to the MSP430s via serial communication.
 - MSP430 Firmware (main.c): Receives coordinates from the Raspberry Pi, calculates the PWM values using a mapping function to adjust the servo positions, and controls the servo motors accordingly.
+  
+## Power Considerations
+- Using a 5V power pack such as a standard 5V phone charging power brick can cause the servos to shudder uncontrollably on startup.
+- Potential fixes to this problem are to use a more robust power source, ie. using a brick that pulls power directly from a
+- wall outlet and supports high current draw or to use multiple power bricks as well as wire a capacitor in parallel with each
+- servo to offset current draw issues. Altenatively using any standard laptop as a power source also works likely due to the
+- laptops more sophisticated protocal for figuring out how much power needs to be supplied to the connected system.
 
 ## System Diagram
 [insert system diagram here]
