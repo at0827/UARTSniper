@@ -2,13 +2,10 @@
 #https://www.guidodiepen.nl/2017/02/detecting-and-tracking-a-face-with-python-and-opencv/
 #for providing much of the inspiration for using facial recognition in python.
 
-
 #Import the OpenCV, dlib, and serial libraries
 import cv2
 import dlib
 import serial
-
-
 
 class AutoTurret:
 
