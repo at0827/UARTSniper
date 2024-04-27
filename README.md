@@ -25,7 +25,7 @@ This repository contains the source code for an automated turret tracking system
 ## Raspberry Pi Setup:
 1. Install Python 3 and OpenCV.
 2. Clone the repository and install required Python packages.
-3. Connect the camera and configure it for facial recognition (turretMain.py)
+3. Connect the camera and configure it for facial recognition (turretMain.py).
 
 ## MSP430 Setup:
 1. Flash the main.c code to the respective MSP430 devices.
