@@ -45,6 +45,9 @@ Assemble the turret structure with servo motors and mount the camera and LED as 
 
 ![image](https://github.com/at0827/UARTSniper/assets/31556111/e1f7bf1e-00a4-4349-ae52-352497148f03)
 
+Propaganda Link:
+https://drive.google.com/file/d/1u3HBlo1FG32HPY6dtVOiOQ-XGXUFqwKr/view?usp=sharing
+
 # Usage
 
 To run the system:
